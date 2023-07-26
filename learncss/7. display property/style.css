@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     /* border: 1px solid red; */
     margin: 0;
@@ -40,4 +41,48 @@ li {
 li:hover {
     color: violet;
     cursor: pointer;
+=======
+* {
+    /* border: 1px solid red; */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    display: inline-block;
+    color: red;
+    width: 300px;
+}
+
+p {
+    width: 50%;
+}
+
+a {
+    width: 400px;
+    margin: 40px;
+}
+
+ul {
+    list-style: none;
+    text-align: end;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+}
+
+li:hover {
+    color: violet;
+    cursor: pointer;
+>>>>>>> d52493aff41e789799fd6142344327d430dbd435
 }

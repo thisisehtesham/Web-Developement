@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 main {
 border: 5px solid brown;
 /* width: 50%; */
@@ -22,4 +23,30 @@ p {
 section {
     border: 5px dashed green;
     width: 50vw;
+=======
+main {
+border: 5px solid brown;
+/* width: 50%; */
+width: 25%;
+}
+
+body {
+    font-size: 2em;
+}
+
+header {
+    font-size: 2em;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+p {
+    font-size: 1.5rem;
+}
+section {
+    border: 5px dashed green;
+    width: 50vw;
+>>>>>>> d52493aff41e789799fd6142344327d430dbd435
 }

@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 body {
     background-color: aqua;
 }
 
 p {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+=======
+body {
+    background-color: aqua;
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+>>>>>>> d52493aff41e789799fd6142344327d430dbd435
 }

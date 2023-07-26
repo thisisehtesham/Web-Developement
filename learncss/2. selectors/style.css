@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* 
 * {
     font-family: fantasy;
@@ -29,4 +30,37 @@ body {
     background-color: yellow;
     font-weight: bolder;
     font-style: italic;
+=======
+/* 
+* {
+    font-family: fantasy;
+} */
+
+
+body {
+    font-size: 20px;
+}
+
+/* p:hover {
+    font-family: monospace;
+} */
+
+/* #first>p {
+    color: green;
+} */
+
+/* #first, #second {
+    color: red;
+} */
+
+.purple {
+    color: purple;
+    font-family: monospace;
+}
+
+.highlight {
+    background-color: yellow;
+    font-weight: bolder;
+    font-style: italic;
+>>>>>>> d52493aff41e789799fd6142344327d430dbd435
 }

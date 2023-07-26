@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     margin: 0;
     padding: 0;
@@ -10,4 +11,18 @@
     border: 20px solid red;
     padding: 30px;
     margin: 40px;
+=======
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    border: 20px solid red;
+    padding: 30px;
+    margin: 40px;
+>>>>>>> d52493aff41e789799fd6142344327d430dbd435
 }
